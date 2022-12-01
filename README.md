@@ -1,1 +1,1 @@
-# angular_exercises
+# Angular JS exercises
